@@ -9,7 +9,8 @@
 ## 5. Maintenant que vous avez un script fonctionnel permettant de renseigner l'adresse IP d'une machine (IP+Masque), le compléter en ajoutant les calculs suivants : nombre de hôtes possibles, 1ere adresse, dernière addresse, adresse réseau, et adresse de diffusion (faire le calcul, dans un premier temps avec le même masque 255.255.255.0)
 ## 6. embellir votre site : les options css sont libres.
 
-## Optionnel : si vous êtes en avance, concevez un script permettant de convertir les coordonnées GPS : DD (degré decimaux) <-> DMS (degrés, minutes, secondes).
+## Optionnel : 
+### si vous êtes en avance, concevez un script permettant de convertir les coordonnées GPS : DD (degré decimaux) <-> DMS (degrés, minutes, secondes).
 
 # Consignes
 ## Soyez autonomes et créatifs
