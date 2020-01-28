@@ -6,7 +6,7 @@
 ### 2. Faire évoluer l'ensemble afin de gérer un formulaire
 ###  3. Le formulaire doit maintenant permettre d'entrer une adresse xx.xx.xx.xx et afficher comme résultats la partie Net ID et la partie Host ID
 ... (considérer que le masque est donné : 255.255.255.0)
-###  4. Ajouter un champ du formulaire pour renseigner, cette fois-ci, le masque, tout en reprenant le calcul précédent
+###  4. Ajouter un champ du formulaire pour renseigner, cette fois-ci, le masque, tout en incluant le calcul précédent
 ###  5. Maintenant que vous avez un script fonctionnel permettant de renseigner l'adresse IP d'une machine (IP+Masque), le compléter en ajoutant les calculs suivants : nombre de hôtes possibles, 1ere adresse, dernière addresse, adresse réseau, et adresse de diffusion (faire le calcul, dans un premier temps avec le même masque 255.255.255.0)
 ###  6. Embellir votre site : les options css sont libres.
 ###  7. Ecrire une fonctions JS qui permet de vérifier la validité des saisies (IP et masque)
