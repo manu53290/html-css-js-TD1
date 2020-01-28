@@ -10,7 +10,7 @@
 ## 6. embellir votre site : les options css sont libres.
 
 ## Optionnel : 
-### si vous êtes en avance, concevez un script permettant de convertir les coordonnées GPS : DD (degré decimaux) <-> DMS (degrés, minutes, secondes).
+### si vous êtes en avance, concevez un script permettant de convertir les coordonnées GPS : DD (degré decimaux) <-> DMS (degrés, minutes, secondes). [Exemple](https://gps-coordinates.org/coordinate-converter.php)
 
 # Consignes
 ## Soyez autonomes et créatifs
