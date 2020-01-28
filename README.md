@@ -1,7 +1,7 @@
 # html-css-js-TD1
 
 # Travail à faire
-`ne pas utiliser aucune boîte de dialogue: ni alert() ni prompt()...`
+`n'utiliser aucune boîte de dialogue: ni alert() ni prompt()...`
 ### 1. Comprendre le script initial et remplacer l'affichage "document.write" des résultats par un affichage direct sur le site avec des \<div\>
 ### 2. Faire évoluer l'ensemble afin de gérer un formulaire
 ###  3. Ajouter un formulaire permettant d'entrer une adresse xx.xx.xx.xx et afficher comme résultats la partie Net ID et la partie Host 
