@@ -1,6 +1,6 @@
 # html-css-js-TD1
 
-#Travail à faire
+# Travail à faire
 ## Comprendre le script initial
 ## Faire évoluer l'ensemble afin de gérer un formulaire
 ## Ajouter un formulaire permettant d'entrer une adresse xx.xx.xx.xx et déduire la partie Net ID et la partie Host ID 
