@@ -15,7 +15,6 @@
 # Consignes
 
 `Soyez autonomes et créatifs` 
-
-- Tout doit être enregsistré sur Github
-- mettre votre repo en privé et inviter le prof en tant que collaborateur`
+`Tout doit être enregsistré sur Github`
+`mettre votre repo en privé et inviter le prof en tant que collaborateur`
 
