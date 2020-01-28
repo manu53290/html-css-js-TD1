@@ -13,7 +13,7 @@
 ### si vous êtes en avance, concevez un script permettant de convertir les coordonnées GPS : DD (degré decimaux) <-> DMS (degrés, minutes, secondes). [Exemple](https://gps-coordinates.org/coordinate-converter.php)
 
 # Consignes
-![#f03c15]- Soyez autonomes et créatifs `#f03c15`
+`#f03c15` - Soyez autonomes et créatifs 
 
 - Tout doit être enregsistré sur Github
 - mettre votre repo en privé et inviter le prof en tant que collaborateur`
