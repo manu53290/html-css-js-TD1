@@ -1,3 +1,3 @@
 # html-css-js-TD1
 
-Lire énoncé dans la branche TD1
+Lire l'énoncé dans la branche TD1
