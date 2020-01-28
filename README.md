@@ -1,7 +1,7 @@
 # html-css-js-TD1
 
 # Travail à faire
-## 1. Comprendre le script initial et afficher les résultats sur des <div>
+## 1. Comprendre le script initial et afficher les résultats sur des /<div/>
 ## 2. Faire évoluer l'ensemble afin de gérer un formulaire
 ## 3. Ajouter un formulaire permettant d'entrer une adresse xx.xx.xx.xx et en déduire la partie Net ID et la partie Host ID 
 ... (considérer que le masque est donné : 255.255.255.0)
