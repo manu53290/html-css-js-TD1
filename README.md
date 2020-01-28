@@ -29,5 +29,5 @@
 
 `Travail individuel`
 
-`Délai : avant le départ en vancances, tout doit être prêt`
+`Délai :  tout doit être prêt, avant le départ en vancances`
 
