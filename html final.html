@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>TD1-Addresse IP</title>
+  
+</head>
+<body>
+  <header>
+	<img src="subnet.3.png">
+  </header>
+  <form>
+	<label>IP1 : </label><input id="ip1Input" name="IP1" type="text"/>
+	<label>IP2 : </label><input id="ip2Input" name="IP2" type="text"/>
+	<label> Masque: </label><input id="MasqueInput" name="Masque" value="255.255.255.0"type="text"/>
+	<input onClick="recup();"/ type="button" value="Calculer" >
+  </form>
+  </br>
+  <div id="IP1">Adresse 1 : </div>
+<div id="IP2">Adresse 2 :</div>
+<div id="IPreseau">Adresse réseau :</div>
+<div id="netID">NET ID : </div>
+<div id="hostID">HOST ID :</div>
+<div id="Nb_adresse">Nombres d'adresses disponibles : </div>
+<div id="première_adresse">1er adresse : </div>
+<div id="dernière_adresse">2eme adresse : </div>
+<div id="broadcast_adresse">Adresse de diffusion :</div>
+</body>
+</html>
